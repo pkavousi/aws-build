@@ -178,7 +178,7 @@ def get_pipeline(
         objective="reg:linear",
         num_round=50,
         max_depth=5,
-        eta=0.2,
+        eta=0.4,
         gamma=6,
         min_child_weight=6,
         subsample=0.7,
